@@ -4,7 +4,7 @@
 This project was completed for Dr. Roppel's ELEC 5530 Mobile Robotics course.
 The goal of this project was to create a robotic arm on a mobile platform that is controlled wirelessly.
 
-[alt text](https://github.com/NoahNedz/MobileRoboticArm/tree/master/pics/pic.jpg "Mobile Robotic Arm")
+[Mobile Robotic Arm](https://github.com/NoahNedz/MobileRoboticArm/tree/master/pics/pic2.jpg "Mobile Robotic Arm")
 
 
 ---
